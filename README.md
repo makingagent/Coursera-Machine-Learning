@@ -10,4 +10,9 @@ pip install numpy
 pip install matplotlib
 ```
 
-### [一周目 | 线性回归](http://hertzcat.com/2018/03/24/coursera-ml-andrewng-linear-regression/)
+### 一周目 | 线性回归
+课堂笔记请猛击 [这里](http://hertzcat.com/2018/03/24/coursera-ml-andrewng-linear-regression/)，`ex1.pdf` 为作业的说明，作业相关的数据为 `ex1data1.txt`，`ex1data2.txt`。`ex1.py` 为基本作业，`ex1_multi.py` 为选做作业，其它文件为一些功能函数。
+```bash
+python ex1.py 
+python ex1_multi.py 
+```

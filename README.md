@@ -4,4 +4,10 @@
 
 发觉这个过程还是蛮有收货的，由于语言的转换，你必须弄清每个函数的意义，理解算法背后数学模型和计算过程，还帮助掌握了一些 Python 库的使用。
 
-### 使用方式
+### 安装 Python 依赖包
+```bash
+pip install numpy
+pip install matplotlib
+```
+
+### [一周目 | 线性回归](http://hertzcat.com/2018/03/24/coursera-ml-andrewng-linear-regression/)

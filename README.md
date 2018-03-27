@@ -1,4 +1,4 @@
-![](http://hertzcat.com/2018/03/24/coursera-ml-andrewng-linear-regression/coursera-ml-andrewng-cover.png)
+![](http://hertzcat.com/2018/03/24/coursera-ml-andrewng-linear-regression/coursera-ml-andrewng-cover.jpeg)
 # Coursera-ML-AndrewNg-Python
 Andrew Ng Coursera 机器学习课程作业, 使用 Python 实现。
 

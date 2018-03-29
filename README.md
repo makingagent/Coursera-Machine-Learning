@@ -16,8 +16,8 @@ pip install scipy
 第一周 | 线性回归
 ------------
 * [课堂笔记](http://hertzcat.com/2018/03/24/coursera-ml-andrewng-linear-regression/)
-* 作业说明：`ex1.pdf`
-* 数据：`ex1data1.txt`，`ex1data2.txt`
+* [作业说明](https://github.com/hertzcat/Coursera-ML-AndrewNg-Python/blob/master/ml-ex1/ex1.pdf)
+* 数据：[`ex1data1.txt`](https://github.com/hertzcat/Coursera-ML-AndrewNg-Python/blob/master/ml-ex1/ex1data1.txt)，`ex1data2.txt`
 * 作业文件：`ex1.py`，`ex1_multi.py`
 
 ```bash

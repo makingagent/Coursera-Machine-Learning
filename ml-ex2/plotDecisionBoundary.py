@@ -1,6 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 from plotData import plotData
+from mapFeature import mapFeature
 
 #PLOTDECISIONBOUNDARY Plots the data points X and y into a new figure with
 #the decision boundary defined by theta
@@ -28,5 +29,23 @@ def plotDecisionBoundary(theta, X, y):
         # Legend, specific for the exercise
         plt.legend(['Admitted', 'Not admitted', 'Decision Boundary'])
         plt.axis([30, 100, 30, 100])
+    else:
+        # Here is the grid range
+        u = np.linspace(-1, 1.5, 50)
+        v = np.linspace(-1, 1.5, 50)
+
+        z = np.zeros((u.shape[0], v.shape[0]))
+        # Evaluate z = theta*x over the grid
+        for i in range(0,u.shape[0]):
+            for j in range(0,v.shape[0]):
+                z[i,j] = np.dot(theta.T, mapFeature(u[i],v[j]))
+
+        # !!! important for plot
+        u, v = np.meshgrid(u, v)
+
+        # Plot z = 0
+        # Notice you need to specify the range [0, 0]
+        plt.contour(u, v, z.T, (0,), colors='g', linewidths=2)
+
 
     

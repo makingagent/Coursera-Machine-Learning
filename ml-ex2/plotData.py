@@ -12,4 +12,3 @@ def plotData(X, y):
     pos = np.where(y==1); neg = np.where(y==0)
     plt.plot(X[pos][:,0],X[pos][:,1], 'k+', linewidth=2, markersize=7)
     plt.plot(X[neg][:,0],X[neg][:,1], 'ko', markerfacecolor='y', markersize=7)
-    plt.axis([30, 100, 30, 100])

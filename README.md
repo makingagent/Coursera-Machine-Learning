@@ -24,3 +24,15 @@ pip install scipy
 python ex1.py 
 python ex1_multi.py 
 ```
+
+第二周 | 逻辑回归
+------------
+* [课堂笔记](http://hertzcat.com/2018/03/31/coursera-ml-andrewng-logistic-regression/)
+* [作业说明](https://github.com/hertzcat/Coursera-ML-AndrewNg-Python/blob/master/ml-ex2/ex2.pdf)
+* 数据：`ex2data2.txt`，`ex2data2.txt`
+* 作业文件：`ex2.py`，`ex1_reg.py`
+
+```bash
+python ex2.py 
+python ex2_reg.py 
+```

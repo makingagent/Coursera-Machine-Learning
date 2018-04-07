@@ -11,4 +11,5 @@ import numpy as np
 #
 def randInitializeWeights(L_in, L_out):
     
-    return np.random.rand(L_out,L_in+1)
+    epsilon = 0.12
+    return np.random.rand(L_out,L_in+1) * 2 * epsilon - epsilon

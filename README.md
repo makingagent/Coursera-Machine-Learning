@@ -47,3 +47,14 @@ python ex2_reg.py
 python ex3.py 
 python ex3_nn.py 
 ```
+
+第四周 | 神经网络 | 反向传播算法
+------------
+* [笔记](http://hertzcat.com/2018/04/14/coursera-ml-andrewng-nn-back-propagation/)
+* [作业说明](https://github.com/hertzcat/Coursera-Machine-Learning/blob/master/ml-ex4/ex4.pdf)
+* 数据：`ex4data1.mat`，`ex4weights.mat`
+* 作业文件：`ex4.py`
+
+```bash
+python ex4.py
+```

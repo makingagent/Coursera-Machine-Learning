@@ -9,6 +9,6 @@ def computeCost(X, y, theta):
     m = len(y) # number of training examples
 
     error = np.dot(X,theta) - y
-    J = (1 / (2*m)) * np.dot(error.T, error)
+    J = np.dot(error.T, error) / m/2
 
     return J

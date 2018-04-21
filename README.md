@@ -58,3 +58,14 @@ python ex3_nn.py
 ```bash
 python ex4.py
 ```
+
+第五周 | 方差与偏差
+------------
+* [笔记](http://hertzcat.com/2018/04/21/coursera-ml-andrewng-bias-vs-variance/)
+* [作业说明](https://github.com/hertzcat/Coursera-Machine-Learning/blob/master/ml-ex5/ex5.pdf)
+* 数据：`ex5data1.mat`
+* 作业文件：`ex5.py`
+
+```bash
+python ex5.py
+```

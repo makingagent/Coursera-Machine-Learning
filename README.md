@@ -1,7 +1,7 @@
 ![](http://hertzcat.com/2018/03/24/coursera-ml-andrewng-linear-regression/coursera-ml-andrewng-cover.jpeg)
 项目简介
 ------------
-.. image:: https://img.shields.io/pypi/pyversions/Django.svg
+![](https://img.shields.io/pypi/pyversions/Django.svg)
 
 本项目是 吴恩达机器学习 课程的 笔记 和 作业。课程作业原先使用的是 Octave 和 MATLAB。不过笔者觉得无论是对 Machine Learning 的学习还是对未来工程项目的开发 Python 都更为合适。所以笔者就使用 Python 将课程作业重新实现了一遍。
 希望这个项目能帮助大家理清课程的内容，理解算法背后的模型，掌握一些 Python 基本库的使用。

@@ -71,3 +71,18 @@ python ex4.py
 ```bash
 python ex5.py
 ```
+
+第六周 | 支持向量机
+------------
+* [笔记](http://hertzcat.com/2018/05/13/coursera-ml-andrewng-svm/)
+* [作业说明](https://github.com/hertzcat/Coursera-Machine-Learning/blob/master/ml-ex6/ex6.pdf)
+* [cs229 讲义](https://github.com/hertzcat/Coursera-Machine-Learning/blob/master/ml-ex6/cs229-notes3.pdf)
+* [cs299 SMO](https://github.com/hertzcat/Coursera-Machine-Learning/blob/master/ml-ex6/smo.pdf)
+* [SMO 论文](https://github.com/hertzcat/Coursera-Machine-Learning/blob/master/ml-ex6/smo-book.pdf)
+* 数据：`ex6data1.mat`，`ex6data2.mat`，`ex6data3.mat`，`spamTrain.mat`，`spamTest.mat` ...
+* 作业文件：`ex6.py`，`ex6_spam.py`
+
+```bash
+python ex6.py
+python ex6_spam.py
+```

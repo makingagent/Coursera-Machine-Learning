@@ -86,3 +86,15 @@ python ex5.py
 python ex6.py
 python ex6_spam.py
 ```
+
+第七周 | 无监督学习算法
+------------
+* [笔记](http://hertzcat.com/2018/06/05/coursera-ml-andrewng-kmeans-and-pca/)
+* [作业说明](https://github.com/hertzcat/Coursera-Machine-Learning/blob/master/ml-ex7/ex7.pdf)
+* 数据：`bird_small.png`，`ex7data1.mat`，`ex7data2.mat`，`ex7faces.mat`
+* 作业文件：`ex7.py`，`ex7_pca.py`
+
+```bash
+python ex7.py
+python ex7_pca.py
+```

@@ -87,7 +87,7 @@ python ex6.py
 python ex6_spam.py
 ```
 
-第七周 | 无监督学习算法
+第七周 | 无监督学习算法 | k-means 与 PCA
 ------------
 * [笔记](http://hertzcat.com/2018/06/05/coursera-ml-andrewng-kmeans-and-pca/)
 * [作业说明](https://github.com/hertzcat/Coursera-Machine-Learning/blob/master/ml-ex7/ex7.pdf)
@@ -97,4 +97,16 @@ python ex6_spam.py
 ```bash
 python ex7.py
 python ex7_pca.py
+```
+
+第八周 | 无监督学习算法 | 异常检测与协同过滤
+------------
+* [笔记](http://hertzcat.com/2018/07/07/coursera-ml-andrewng-anomaly-detection-and-collaborative-filtering/)
+* [作业说明](https://github.com/hertzcat/Coursera-Machine-Learning/blob/master/ml-ex8/ex8.pdf)
+* 数据：`ex8data1.mat`，`ex8data2.mat`，`ex8_movies.mat`，`ex8_movieParams.mat`，`movie_ids.txt`
+* 作业文件：`ex8.py`，`ex8_cofi.py`
+
+```bash
+python ex8.py
+python ex8_cofi.py
 ```

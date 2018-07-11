@@ -99,7 +99,7 @@ python ex7.py
 python ex7_pca.py
 ```
 
-第八周 | 无监督学习算法 | 异常检测与协同过滤
+第八周 | 异常检测与协同过滤
 ------------
 * [笔记](http://hertzcat.com/2018/07/07/coursera-ml-andrewng-anomaly-detection-and-collaborative-filtering/)
 * [作业说明](https://github.com/hertzcat/Coursera-Machine-Learning/blob/master/ml-ex8/ex8.pdf)
